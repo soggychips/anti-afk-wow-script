@@ -25,8 +25,8 @@ pip install -r requirements.txt
 1. Launch WoW (Classic)
 2. Enter queue
 3. Open terminal
-   - cd ~/anti-afk-wow-script
-   - python run.py
+   - `cd ~/anti-afk-wow-script`
+   - `python run.py`
 4. Make WoW the focused window
 
 ## Windows Users
