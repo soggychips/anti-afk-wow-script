@@ -1,10 +1,15 @@
 # Anti AFK WoW Script
 
-Classic is here, and the queues are long. Stay in game w/ this script.
+Classic is here, and the queues are long. Stay in game w/ this python script.
 
 This will keep your character moving a little bit every now and then to keep you from getting kicked.
 
+## Requirements
+
+```
 Python2.7
+pip (2.7)
+```
 
 ## Installation (Unix)
 
