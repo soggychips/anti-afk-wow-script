@@ -4,6 +4,8 @@ Classic is here, and the queues are long. Stay in game w/ this script.
 
 This will keep your character moving a little bit every now and then to keep you from getting kicked.
 
+Python2.7
+
 ## Installation (Unix)
 
 ```
