@@ -11,11 +11,7 @@ cd anti-afk-wow-script
 pip install -r requirements.txt
 ```
 
-## Installation (Windows)
-
-1. Figure it out
-
-## Running the script
+## Running the script (Unix)
 
 1. Launch WoW (Classic)
 2. Enter queue
