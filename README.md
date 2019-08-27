@@ -28,3 +28,9 @@ pip install -r requirements.txt
    - cd ~/anti-afk-wow-script
    - python run.py
 4. Make WoW the focused window
+
+## Windows Users
+
+```
+eh. figure it out
+```
