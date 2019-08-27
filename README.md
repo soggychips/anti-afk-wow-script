@@ -4,11 +4,15 @@ Classic is here, and the queues are long. Stay in game w/ this python script.
 
 This will keep your character moving a little bit every now and then to keep you from getting kicked.
 
+The script uses PyAutoGUI, which manipulates your keyboard. It does not interact with the WoW client at all.
+
 ## Requirements
 
 ```
 Python2.7
 pip (2.7)
+
+PyAutoGUI (in requirements file)
 ```
 
 ## Installation (Unix)
@@ -32,5 +36,5 @@ pip install -r requirements.txt
 ## Windows Users
 
 ```
-eh. figure it out
+eh. figure it out. Do a pull request if you'd like.
 ```
