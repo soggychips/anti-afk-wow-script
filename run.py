@@ -15,7 +15,7 @@ def rand_move():
     seed()
     move = choice(moves)
     keyDown(move)
-    rand_sleep(0, 2)
+    rand_sleep(0, 3)
     keyUp(move)
 
 
